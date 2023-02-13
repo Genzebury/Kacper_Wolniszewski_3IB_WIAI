@@ -5,7 +5,7 @@
         return a*b
 ```
 
-To moja [Stronka](https://genzebury.github.io/teb/)
+To moja [Stronka](https://genzebury.github.io/Kacper_Wolniszewski_3IB_WIAI/)
 
 ![Przykładowy obrazek](kod.png "kodzik")
 
